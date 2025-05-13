@@ -15,20 +15,20 @@ export default function Home() {
         </p>
         
         <p className="text-lg">
-          First of all, let's talk about the advantages and disadvantages of AI. It lets us code without having to memorize syntax. 
+          First of all, let&apos;s talk about the advantages and disadvantages of AI. It lets us code without having to memorize syntax. 
           It can handle simple tasks and help with searching and explaining programming concepts, but the problem is it struggles with complex stuff and often breaks, makes bugs, or hallucinates. 
-          It just isn't ideal to use yet at the highest level.
+          It just isn&apos;t ideal to use yet at the highest level.
         </p>
         
         <p className="text-lg">
-          Secondly, you have to remember that AI trains on public data, meaning that any app you're trying to make with AI probably has an open-source, bug-free version 
-          of the same thing but better. AI tends to pick the most popular data, and since most of the code that people post on the internet isn't optimal, AI will 
+          Secondly, you have to remember that AI trains on public data, meaning that any app you&apos;re trying to make with AI probably has an open-source, bug-free version 
+          of the same thing but better. AI tends to pick the most popular data, and since most of the code that people post on the internet isn&apos;t optimal, AI will 
           pick that less useful code more than the good, useful code.
         </p>
         
         <p className="text-lg">
           And lastly, people need to realize that CEOs can oversell capabilities, often pushing expectations super high even though
-          the technology actually isn't there yet.
+          the technology actually isn&apos;t there yet.
         </p>
       </div>
       
